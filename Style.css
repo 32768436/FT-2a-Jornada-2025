@@ -1,0 +1,10 @@
+body  {	
+	background-color: #305050;
+	color: white;
+<link rel="stylesheet" href="style.css">
+.texto-inglês{
+    font-style: italic;
+}
+#nome-usuário{
+    font-weight: bold;
+}
